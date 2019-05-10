@@ -1,4 +1,4 @@
-##Full stack web development with ASP.NET Core 3.0 and Blazor##
+## Full stack web development with ASP.NET Core 3.0 and Blazor ##
 
 [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.0 "Blazor") is c# instead of javascript
 
@@ -13,7 +13,7 @@
 [gRPC](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.0 "gRPC") is strongly typed binary procedure calls
 
 
-###Bring back to the team###
+### Bring back to the team ###
 
 - Good
  - all aspnet, c# and razor

@@ -1,4 +1,4 @@
-##Machine Learning##
+## Machine Learning ##
 
 Example: commerce
 Combine user data with product data
@@ -16,7 +16,7 @@ Use external data sets to integrate into your business data. For example, energy
 
 
 
-###Bring back to the team###
+### Bring back to the team ###
 - A data scientist is key to determine where/how to apply machine learning modeling based on use cases
 - Contract analysis and forecasting
 - Contract simplification

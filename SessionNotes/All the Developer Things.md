@@ -9,6 +9,6 @@
 
 - ML.NET Machine Learning .NET
 
-###Bring back to the team###
+### Bring back to the team ###
 
 - JAMstack options: angular, react

@@ -1,4 +1,4 @@
-##Increase your .NET productivity with Visual Studio 2019##
+## Increase your .NET productivity with Visual Studio 2019 ##
 
 Project Template installers are part of the create new project wizard.
 

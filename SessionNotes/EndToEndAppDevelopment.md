@@ -10,7 +10,7 @@ Azure "Space": development space in Azure for hosting your changes that also int
 
 Feature branches can be built/released to a container and accessed via the Feature branches name.
 
-###Bring back to the team###
+### Bring back to the team ###
 
 - Branches created for Feature/Bug
 	- branch is released with isolated changes (url contains the branch name)
