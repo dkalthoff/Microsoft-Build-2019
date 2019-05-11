@@ -12,14 +12,14 @@ Visual Studio Search all from one textbox
 
 Solution Filters
 
- - load the projects you only work with
-  - creates a file similar to the .sln
+ - load only the projects you work with
+  - creates a file similar to the .sln (source control-able)
   - load project references
    - when building it loads the filtered out projects
 
 Modify .csproj without unloading a project
 
-Search feature straight from the locals or watch window
+Added search to the locals or watch window
 
 Code Refactoring
 
